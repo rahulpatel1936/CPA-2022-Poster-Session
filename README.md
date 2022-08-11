@@ -18,3 +18,7 @@ groups t-tests, no significant differences between conditions were found for app
 95% CI[-0.29, 0.11], Cohen’s _d_ = 0.15, 95% CI [-0.18, 0.50]). Based on the results, it appears that
 providing applicants with the questions for five minutes before the interview does not significantly
 impact how they honestly manage impressions or fake in the interview. 
+
+I would like to thank my <b>supervisor</b>, Dr. Deborah Powell and Jordan Moore for assisting me in completing this project and granting me permission to analyze this dataset. To view results from the original study, please take a look at Jordan Moore's thesis: https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/26437/Moore_Jordan_202109_MA.pdf?sequence=6
+
+The R script and results are based on fictional data. The R script is merely provided to share the code for the analyses, as close as possible to the actual analyses that were conducted. To view the actual results, please visit the OSF link at the top. 
